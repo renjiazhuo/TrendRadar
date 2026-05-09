@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-05-09T17:22:30.032722+08:00",
-  "total_titles_processed": 1076,
-  "failed_sources": [],
+  "generated_at": "2026-05-09T19:01:47.643629+08:00",
+  "total_titles_processed": 1183,
+  "failed_sources": [
+    "cls-hot",
+    "ifeng"
+  ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
